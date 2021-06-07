@@ -1,0 +1,9 @@
+package org.codemadra.samples;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // run some useful code here...
+    }
+
+}
